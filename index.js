@@ -1,0 +1,10 @@
+ReactDOM.render(
+<ul>
+  <li>Mary</li>
+  <li>Had</li>
+  <li>A</li>
+  <li>Little</li>
+  <li>Lamb</li>
+  </ul>, 
+  document.getElementById("root")
+);
