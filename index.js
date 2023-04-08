@@ -5,6 +5,11 @@ ReactDOM.render(
   <li>A</li>
   <li>Little</li>
   <li>Lamb</li>
+  <li>E</li>
+  <li>I</li>
+  <li>E</li>
+  <li>I</li>
+  <li>O</li>
   </ul>, 
   document.getElementById("root")
 );
